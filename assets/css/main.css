@@ -288,4 +288,12 @@ section {
 .light-section {
     background: #f8f9fa;
 }
+/* Active Navigation State */
+nav a.active {
+    background: linear-gradient(135deg, #ff4444 0%, #ff8800 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+}
 
