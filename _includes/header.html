@@ -1,0 +1,13 @@
+<header>
+    <div class="container">
+        <div class="hero-content">
+            <img src="{{ '/Consulting Logo.png' | relative_url }}" alt="{{ site.title }}" class="logo">
+            <h1>{{ site.title }}</h1>
+            <p class="tagline">{{ site.tagline }}</p>
+            {% if page.url == "/" %}
+            <p class="hero-description">{{ site.description }}</p>
+            <a href="{{ '/contact' | relative_url }}" class="cta-button">Get Started</a>
+            {% endif %}
+        </div>
+    </div>
+</header>
