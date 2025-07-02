@@ -8,11 +8,7 @@ title: Services
         <h2 class="section-title">Services for People Who Make Things</h2>
         
         <div class="intro">
-           Here's your Services page formatted with HTML tags:
-
-```html
-<h1>Services for People Who Make Things</h1>
-
+        
 <h2>The Opportunity Everyone Misses</h2>
 
 <p>You're doing something that matters because you see what's missing. Maybe you're the architect who notices how morning light changes spaces in ways your clients haven't imagined yet. Or the pizzeria owner who knows that perfect fermentation creates flavors most people have never tasted.</p>
@@ -110,7 +106,122 @@ title: Services
 <li>LinkedIn that shares your specific insights (and brings people to your deeper work)</li>
 <li>Newsletters that feel like continued conversations, not random broadcasts</li>
 <li>Speaking topics that emerge from what you're already exploring</li>
-<li>Websites that feel like the
+<li>Websites that feel like the<h4>Make Your Ideas Clearer</h4>
+<p>I left my red pen in the Ivory Tower. I'm not here to police your grammar. We're finding the story in your data, the thread that connects your insights, the examples that make people lean in. Like helping the structural engineer explain seismic retrofitting through the story of a family business that stayed standing, while still maintaining the technical credibility that makes other engineers trust you. You need both languages, and both need to sound like you.</p>
+
+<h4>Polish Without Sanitizing</h4>
+<ul>
+<li>Edit line by line while keeping your personality intact</li>
+<li>Make sure your Tuesday blog post doesn't contradict your Thursday keynote</li>
+<li>Check facts without losing the narrative</li>
+<li>Fix grammar without making you sound like a textbook</li>
+</ul>
+
+<h4>Write It From Scratch (In Your Voice)</h4>
+<ul>
+<li>Proposals that get funded because they show the gap you're filling ($365K+ track record)</li>
+<li>Website copy that sounds like you explaining your work over coffee</li>
+<li>Materials that showcase what you specifically bring to the table</li>
+<li>Grants that tell your story while hitting all the requirements</li>
+<li>Newsletters that share real insights, not recycled tips</li>
+</ul>
+
+<h4>Make It Look Like What It Is</h4>
+<ul>
+<li>Design that supports your message, not overshadows it</li>
+<li>Layouts that help people understand complex ideas</li>
+<li>Visuals that maintain your voice even without words</li>
+<li>Presentations that enhance your expertise, not distract from it</li>
+</ul>
+
+<h3>Background That Matters</h3>
+<p>Lead editor on the Pack Prints textbook series—I know how to manage complex ideas from messy first draft to polished final product. PhD work taught me how communication works; consulting taught me how to make it work for you.</p>
+
+<h3>Who This Is For</h3>
+<p>People who have important things to say and want help saying them clearly. The researcher whose findings could change practices but can't escape academic speak. The consultant who knows exactly what clients need but struggles to articulate it. You understand the difference between sounding impressive and being understood.</p>
+
+<p><strong>Investment:</strong></p>
+<ul>
+<li>Editing: $75-125/hour (depends on how tangled we're starting)</li>
+<li>Writing from scratch: From $1,500 (web copy) to $2,500 (proposals)</li>
+<li>Design work: Starting at $1,200 for complete visual identity</li>
+</ul>
+
+<h2>Training & Documentation</h2>
+<p><em>For people who can't be everywhere at once</em></p>
+
+<h3>What This Really Means</h3>
+<p>You know that thing you do naturally—like how you always explain the budget implications before diving into technical details, or how you can tell within two emails if a client's going to be difficult? Your team needs to know these things too. Not through osmosis or hoping they figure it out, but through systems that capture how you really work.</p>
+
+<h3>What We Actually Do</h3>
+
+<h4>Help Your Team Sound Like Your Team</h4>
+<ul>
+<li>Capture how you naturally explain things (not how you think you should)</li>
+<li>Document the examples that work every time</li>
+<li>Create workflows based on what you really do, not what the manual says</li>
+<li>Build training that sticks because it's based on real situations</li>
+</ul>
+
+<p>Like the architecture firm where everyone knew the principal always started with "how do you want to feel in this space?" We turned that intuition into a process everyone could follow while still sounding human.</p>
+
+<h4>Make Client Communication Consistent</h4>
+<ul>
+<li>Map out how you naturally onboard clients (including the unofficial stuff)</li>
+<li>Create ways to keep clients informed without 47 update emails</li>
+<li>Build in feedback loops that people will really use</li>
+<li>Develop the "maintaining relationships" stuff that usually lives in someone's head</li>
+</ul>
+
+<h4>Build Systems That Don't Need You</h4>
+<ul>
+<li>Document the daily afternoon decisions, not just the big ones</li>
+<li>Create quality checks based on what really matters</li>
+<li>Design training that develops judgment, not just skills</li>
+<li>Build in ways to get better based on what's really happening</li>
+</ul>
+
+<h3>Why I Can Do This</h3>
+<p>Seven years building writing centers that helped thousands of students meant creating systems that worked whether I was there or not. Managing 15+ tutors taught me that good documentation isn't about control—it's about helping people succeed when you're not in the room.</p>
+
+<h3>Who This Is For</h3>
+<p>People whose businesses are outgrowing the "just ask me" phase. The consultant who's tired of being the only one who can write proposals. The design studio where new hires take forever to "get" the house style. You want growth without losing what makes you special.</p>
+
+<p><strong>Investment:</strong> Starting at $4,500 for foundation documentation and training design. Implementation help based on what you need.</p>
+
+<h2>How We Work Together</h2>
+
+<h3>Discovery</h3>
+<p>We start by figuring out what makes your expertise yours. Not through some generic questionnaire, but through real conversation about the gap you're filling. Like sitting down with the baker who realized everyone was teaching recipes but nobody was teaching how to read dough. We find your version of reading dough.</p>
+
+<h3>Development</h3>
+<p>I build systems around how you really work. Not how some business book says you should work, but how you explain things when you're excited, how you organize when you're in flow, what you do when everything's clicking. The sustainable stuff that matches your actual life.</p>
+
+<h3>Implementation</h3>
+<p>Ideas without action are just expensive coffee conversations. We put systems in place, test them with real work, adjust based on what happens. Because the best process is the one that survives your busiest week.</p>
+
+<h3>Evolution</h3>
+<p>Your business changes. Your expertise deepens. Your audience grows. The systems we build grow with you, getting refined based on what you learn and what your clients teach you.</p>
+
+<h2>Ready to Make Some Noise?</h2>
+
+<p>Most communication consulting feels generic because it is generic. I work with people who have real expertise filling real gaps. People who see what's missing and want to help others see it too.</p>
+
+<p>If you're tired of content that could be selling anything, let's talk about building communication around the specific thing you know. The gap you see. The contribution you're making.</p>
+
+<h3>What Happens Next:</h3>
+<ul>
+<li>Send me an email about what you're building (or want to build)</li>
+<li>We'll have a real conversation about where you're stuck</li>
+<li>You'll get a proposal based on your specific situation</li>
+<li>We'll start with whatever's keeping you up at night</li>
+</ul>
+
+<p>No strategy calls. No templates. Just two people talking about how to help your expertise reach the people who need it.</p>
+
+<p><strong>Email:</strong> <a href="mailto:airekbeauchamp@gmail.com">airekbeauchamp@gmail.com</a><br>
+<strong>Phone:</strong> (573) 270-7860<br>
+<strong>Location:</strong> Fenton, MO (Will travel for interesting challenges)</p>
 
     </div>
 </section>
