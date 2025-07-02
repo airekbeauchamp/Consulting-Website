@@ -106,7 +106,34 @@ title: Services
 <li>LinkedIn that shares your specific insights (and brings people to your deeper work)</li>
 <li>Newsletters that feel like continued conversations, not random broadcasts</li>
 <li>Speaking topics that emerge from what you're already exploring</li>
-<li>Websites that feel like the<h4>Make Your Ideas Clearer</h4>
+<li>Websites that feel like the natural home for everything else you share</li>
+</ul>
+
+<h4>Pay Attention to What Matters</h4>
+<ul>
+<li>Track whether people are hiring you, not just liking your posts</li>
+<li>Notice which stories resonate and build from there</li>
+<li>Listen to what your audience tells you they need</li>
+<li>Adjust based on what's working in your actual business</li>
+</ul>
+
+<h3>Real Story</h3>
+<p>300% growth in digital engagement happened when we stopped treating each platform like its own island. A writing center that connected their workshop topics to their blog posts to their consultation offerings. Everything supported everything else. Students found them through one door and discovered five others.</p>
+
+<h3>Who This Is For</h3>
+<p>People who create good content but feel like they're starting from scratch every time. You know your expertise connects—the beekeeper who understands systems thinking, the designer who sees accessibility everywhere—but your content doesn't show those connections yet.</p>
+
+<p><strong>Investment:</strong> Starting at $7,500 to design how everything works together. We build ongoing support based on what helps you most.</p>
+
+<h2>Editing & Content Creation</h2>
+<p><em>For people who know their stuff but need help getting it on the page</em></p>
+
+<h3>What This Really Means</h3>
+<p>Sometimes you know exactly what you want to say—like the engineer who can explain why that bridge design is revolutionary to other engineers AND make city council members see why it matters to their constituents. You're not boring; you're bilingual, switching between technical precision and human story. But sometimes those languages get tangled on the page. Other times you need someone to write it from scratch while keeping it in your voice. Either way, I help your expertise shine through to the right audience.</p>
+
+<h3>What We Actually Do</h3>
+
+<h4>Make Your Ideas Clearer</h4>
 <p>I left my red pen in the Ivory Tower. I'm not here to police your grammar. We're finding the story in your data, the thread that connects your insights, the examples that make people lean in. Like helping the structural engineer explain seismic retrofitting through the story of a family business that stayed standing, while still maintaining the technical credibility that makes other engineers trust you. You need both languages, and both need to sound like you.</p>
 
 <h4>Polish Without Sanitizing</h4>
